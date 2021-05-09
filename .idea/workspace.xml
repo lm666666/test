@@ -15,6 +15,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="a1a9e85d-401a-4e86-a179-6c8cde89198e" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -52,6 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1620521825852</updated>
       <workItem from="1620521827502" duration="2570000" />
+      <workItem from="1620526504431" duration="1680000" />
     </task>
     <task id="LOCAL-00001" summary="第二次">
       <created>1620526122272</created>
@@ -60,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620526122272</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第二次2">
+      <created>1620526531969</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620526531969</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,20 +79,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第二次" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二次" />
+    <MESSAGE value="第二次2" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="404" y="64" key="CommitChangelistDialog2" timestamp="1620526121703">
+    <state x="404" y="64" key="CommitChangelistDialog2" timestamp="1620526531361">
       <screen x="0" y="0" width="1792" height="1080" />
     </state>
-    <state x="404" y="64" key="CommitChangelistDialog2/0.0.1792.1080@0.0.1792.1080" timestamp="1620526121703" />
-    <state x="270" y="99" key="SettingsEditor" timestamp="1620526365314">
+    <state x="404" y="64" key="CommitChangelistDialog2/0.0.1792.1080@0.0.1792.1080" timestamp="1620526531361" />
+    <state x="270" y="99" key="SettingsEditor" timestamp="1620531983453">
       <screen x="0" y="0" width="1792" height="1080" />
     </state>
-    <state x="270" y="99" key="SettingsEditor/0.0.1792.1080@0.0.1792.1080" timestamp="1620526365314" />
-    <state x="389" y="211" key="Vcs.Push.Dialog.v2" timestamp="1620526377861">
+    <state x="270" y="99" key="SettingsEditor/0.0.1792.1080@0.0.1792.1080" timestamp="1620531983453" />
+    <state x="389" y="211" key="Vcs.Push.Dialog.v2" timestamp="1620531663954">
       <screen x="0" y="0" width="1792" height="1080" />
     </state>
-    <state x="389" y="211" key="Vcs.Push.Dialog.v2/0.0.1792.1080@0.0.1792.1080" timestamp="1620526377861" />
+    <state x="389" y="211" key="Vcs.Push.Dialog.v2/0.0.1792.1080@0.0.1792.1080" timestamp="1620531663954" />
   </component>
 </project>
